@@ -9,7 +9,7 @@ public class PrologueScript : MonoBehaviour
     // Place holder data.  Right now it instantly loads the main game.
     void Start()
     {
-        SceneManager.LoadScene("Guy's House", LoadSceneMode.Single);
+        SceneManager.LoadScene("Guy_House", LoadSceneMode.Single);
     }
 
     // Update is called once per frame
